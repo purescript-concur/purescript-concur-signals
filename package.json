@@ -1,0 +1,15 @@
+{
+  "name": "purescript-concur-signals",
+  "version": "0.5.0",
+  "description": "Concur UI framework for Purescript, Signals.",
+  "license": "MIT",
+  "repository": "purescript-concur/purescript-concur-signals",
+  "author": {
+    "name": "Anupam Jain",
+    "email": "ajnsit at alphabets email service"
+  },
+  "files": [],
+  "scripts": {
+    "build": "spago build",
+  }
+}
